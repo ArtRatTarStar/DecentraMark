@@ -1,10 +1,17 @@
 # DecentraMK-I dApp
 
-> Decentralized Trademark NFT Minting on XRPL + IPFS + XUMM
+> 🪪 Decentralized Trademark NFT Minting — powered by XRPL, IPFS & XUMM
 
-## 🛠️ Setup
+DecentraMK-I lets users mint verifiable trademarks as NFTs directly on the XRPL, backed by immutable metadata stored on IPFS. Seamless integration with XUMM enables trustless payments.
 
-1. Clone the repo:
+---
+
+## 🛠️ Local Development Setup
+
+> **Developers Only:** To run the app locally, clone this repo:
+
 ```bash
-git clone https://github.com/YOUR_USERNAME/DecentraMK-I.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/DecentraMK-I.git
 cd DecentraMK-I
+npm install
+npm run dev
