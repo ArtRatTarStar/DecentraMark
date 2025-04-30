@@ -11,7 +11,7 @@ DecentraMK-I lets users mint verifiable trademarks as NFTs directly on the XRPL,
 > **Developers Only:** To run the app locally, clone this repo:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/DecentraMK-I.git
+git clone https://github.com/ArtRatTarStar/DecentraMK-I.git
 cd DecentraMK-I
 npm install
 npm run dev
