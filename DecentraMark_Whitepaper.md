@@ -45,9 +45,9 @@ This dApp is a decentralized utility for recording proof-of-creation. It does **
 
 ## 🪪 Identity & Versioning
 
-- **Current Version:** `DecentraMK-I`
-- **Future Releases:** `DecentraMK-II`, `DecentraMK-III` (planned)
-- **Repo:** [github.com/YOUR_USERNAME/DecentraMK-I](https://github.com/YOUR_USERNAME/DecentraMK-I)
+**Current Version**: DecentraMK-I  
+**Future Releases**: DecentraMK-II, DecentraMK-III (planned)  
+**Repo**: [github.com/ArtRatTarStar/DecentraMK-I](https://github.com/ArtRatTarStar/DecentraMK-I)
 
 ---
 
